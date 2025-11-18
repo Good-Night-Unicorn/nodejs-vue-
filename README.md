@@ -1,4 +1,6 @@
-基于nodejs+Vue3纯前端的
+基于nodejs+Vue3纯前端的蛋糕商城系统
+
+
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加QQ：3042127848 咨询接毕业设计论文**
